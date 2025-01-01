@@ -1,2 +1,3 @@
 # RSA-Meeting  
-# academic resources  
+# Academic resources  
+# Minutes of meeting

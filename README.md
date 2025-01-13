@@ -58,3 +58,4 @@
 4. 透過這樣的詳細對照程式碼與數學推導，你們才能理解，從傳統電腦架構走向量子電腦架構，到底改了哪些
 5. 接下來，你理解 RSA 在量子電腦上的運作之後，就可以去參考橢圓曲線的實作 https://gist.github.com/bellbind/1414867/04ccbaa3fe97304d3d9d91c36520a662f2e28a45 以及對應的數學流程教學 https://youtube.com/playlist?list=PLsS_1RYmYQQEun1MTwmvbXurqHIJrFJ0e&si=shofp_XtU3FKXcpd
 6. 下次討論，我們先以 RSA 在量子電腦上的模擬運作細節，清楚講一次為主，你們先從這個角度去準備。這樣才能體會量子電腦為什麼可以不需要質因式分解就能破解 RSA，先跑看看 Shor's algorithm
+7. https://arxiv.org/abs/quant-ph/0301141 這篇是第一個根據 Shor's 的架構去改寫後，對橢圓曲線在量子電腦上的數學推論

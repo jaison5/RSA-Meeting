@@ -3,6 +3,7 @@
 [Quantum_polynomial-time_fixed-point_attack_for_RSA](https://github.com/jaison5/RSA-Meeting/blob/main/Quantum_polynomial-time_fixed-point_attack_for_RSA.pdf)  
 [Post-Quantum Cryptography](https://github.com/jaison5/RSA-Meeting/blob/main/978-3-319-59879-6.pdf)
 # Minutes of meeting  
+[1/13會議記錄](https://github.com/jaison5/RSA-Meeting?tab=readme-ov-file#113%E6%9C%83%E8%AD%B0%E8%A8%98%E9%8C%84)
 ## 2025/1/1 紀錄  
 1.從實務開始學，而不是學整個密碼學，不建議修課  
 2.了解RSA的運作方式、實作一遍、了解哪裡被破解，運行目前rsa程式碼或重新撰寫一個  

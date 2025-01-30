@@ -50,7 +50,7 @@
 
 * 比較不同加密方式的安全性與效率
 
-[第一篇論文內容整理](https://hackmd.io/s5iDw7zSSKWp0jns4PjSjA?view#%E9%96%B1%E8%AE%80%E8%AB%96%E6%96%87%E7%B4%80%E9%8C%84)
+[兩篇論文內容整理](https://hackmd.io/s5iDw7zSSKWp0jns4PjSjA?view#%E9%96%B1%E8%AE%80%E8%AB%96%E6%96%87%E7%B4%80%E9%8C%84)
 
 ### 老師訊息建議
 1. 量子模擬只能跑很小量的測試，是正常的，我提到的 QLSTM 在做第一次測試時的資料集，也超級少，目前這種階段，就是先驗證可行性，不需要大量數據來佐證。因為這時期的困難點，是世界觀的轉換，要怎麼從傳統電腦架構，映射到量子電腦的架構，就是非常有挑戰的 以下是 QLSTM 的相關資料 https://drive.google.com/drive/folders/14_25cxphs_EaSRPXXsNTbMqd8UyQmku3?usp=shar
